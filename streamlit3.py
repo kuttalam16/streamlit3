@@ -21,4 +21,4 @@ with col3:
 
 with st.expander('open me'):
      st.header('Hello GoodMorning I am kuttalam')
-     st.image(r"C:\Users\kutlc\OneDrive\Documents\Resume3\Image20240821174114.jpg")
+     
